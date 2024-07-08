@@ -2,7 +2,6 @@ package org.processmining.stochasticlabelleddatapetrinet.plugins;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -20,7 +19,6 @@ import org.processmining.stochasticlabelleddatapetrinet.weights.LogisticWeightFu
 
 import gnu.trove.map.TIntObjectMap;
 import gnu.trove.map.hash.TIntObjectHashMap;
-import javatests.Foo;
 
 public class SLDPNStaticPettierVisualizer {
 	
